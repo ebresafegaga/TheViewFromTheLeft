@@ -10,4 +10,4 @@ You can also see Philip Wadler's [awesome paper](https://www.cs.tufts.edu/~nr/cs
 
 
 
-"Views let you view your data in funny new ways." — Conor McBride
+"views let you view your data in funny new ways." — Conor McBride
