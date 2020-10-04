@@ -2,7 +2,7 @@
 
 My favourite view patterns and some proofs in Idris. 
 
-You can also do this in your favourite dependently typed PL.
+You can also do this in your favourite dependently typed PL (well, maybe not).
 
 Inspired by Conor McBride and James McKinna's [classic](http://www.e-pig.org/downloads/view.pdf).
 
